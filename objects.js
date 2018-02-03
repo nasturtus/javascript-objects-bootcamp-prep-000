@@ -1,4 +1,4 @@
 var playlist = {
   mercedes_sosa: 'todo cambio',
-  eugenia_leon: 'e'
+  eugenia_leon: ''
 };
